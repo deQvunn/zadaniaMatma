@@ -62,7 +62,7 @@ button{
 #container1{
     text-align:center;
     color:white;
-    background-color: rgba(46, 60, 43, 0.644);
+    background-color: rgba(46, 60, 43, 0.944);
     height:500px;
     width:70%;
     margin-top:5%;
@@ -73,7 +73,7 @@ button{
 #container2{
     text-align:center;
     color:white;
-    background-color: rgba(60, 43, 43, 0.644);
+    background-color: rgba(60, 43, 43, 0.944);
     height:500px;
     width:70%;
     margin-top:5%;
@@ -84,7 +84,7 @@ button{
 #container3{
     text-align:center;
     color:white;
-    background-color: rgba(45, 43, 60, 0.644);
+    background-color: rgba(45, 43, 60, 0.944);
     height:500px;
     width:70%;
     margin-top:5%;
@@ -95,7 +95,7 @@ button{
 #container4{
     text-align:center;
     color:white;
-    background-color: rgba(59, 60, 43, 0.644);
+    background-color: rgba(59, 60, 43, 0.944);
     height:500px;
     width:70%;
     margin-top:5%;
@@ -106,7 +106,7 @@ button{
 #container5{
     text-align:center;
     color:white;
-    background-color: rgba(60, 43, 56, 0.9);
+    background-color: rgba(60, 43, 56, 0.944);
     height:500px;
     width:70%;
     margin-top:5%;
